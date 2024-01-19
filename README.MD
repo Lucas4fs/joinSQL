@@ -152,7 +152,7 @@ INNER JOIN Cursos ON Alunos.ID_Curso = Cursos.ID;
 +----+-------+------+----------+------------------------+
 ```
 <p>
-Nesse caso nenhuma tabela é priorizada quando se trata da exibição de dados, ou seja, trazer todos os dados das duas tabelas dês de que as duas tabelas atendam as exigências do SELECT
+Nesse caso nenhuma tabela é priorizada quando se trata da exibição de dados, ou seja, trazer todos os dados das duas tabelas dês de que as duas tabelas atendam as exigências do SELECT.
 </p>
 
 <h4>
@@ -181,5 +181,5 @@ FULL JOIN Cursos ON Alunos.ID_Curso = Cursos.ID;
 ```
 
 <p>
-Nesse caso as duas tabelas são priorizadas quando se trata da exibição dos dados, ou seja, trazer todos os dados das duas tabelas mesmo que as exigências do SELECT sejam atendidas ou não e ondem não houver correspondência de dados o valor "NULL" será retornado
+Nesse caso as duas tabelas são priorizadas quando se trata da exibição dos dados, ou seja, trazer todos os dados das duas tabelas mesmo que as exigências do SELECT sejam atendidas ou não e ondem não houver correspondência de dados o valor "NULL" será retornado.
 </p>
