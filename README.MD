@@ -28,7 +28,7 @@ https://github.com/Lucas4fs/joinSQL/blob/main/src/scriptParaCriarObd.sql
 </h3>
 
 <p>
-    Imagine que temos um BD com duas tabelas, a tabela "Cursos" e a tabela "Alunos", vamos realizar uma consulta comum para saber quais dados existem dentro dessas tabelas:
+    Sabendo que temos um BD com duas tabelas, a tabela "Cursos" e a tabela "Alunos", vamos realizar uma consulta comum para saber quais dados existem dentro dessas tabelas:
 </p>
 
 ```sql
