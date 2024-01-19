@@ -7,7 +7,7 @@
 </p>
 <br>
 <h2>
-    :mag: SCRIPT COMPLETO DO PROJETO NO LINK ABAIXO
+    📜  SCRIPT COMPLETO DO PROJETO NO LINK ABAIXO
 </h2>
 
 ```
