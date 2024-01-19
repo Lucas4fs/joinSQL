@@ -5,6 +5,14 @@
     🔎 CONSULTAS SQL COM "JOIN" 🔎
     </h1>
 </p>
+<br>
+<h2>
+    :mag: SCRIPT COMPLETO DO PROJETO NO LINK ABAIXO
+</h2>
+
+```
+https://github.com/Lucas4fs/joinSQL/blob/main/src/scriptParaCriarObd.sql
+``` 
 
 <h3>
     :pushpin: Intuito do Projeto
