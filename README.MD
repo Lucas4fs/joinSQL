@@ -175,7 +175,6 @@ FULL JOIN Cursos ON Alunos.ID_Curso = Cursos.ID;
 +----+-------+-------+----------+-------+-----------------------+--------------+---------+
 | 1  | Alice | 22 	| 1 		| 1 	| ADS         			| 3000         | Superior|
 | 3  | Carol | 28 	| 1 		| 1 	| ADS          			| 3000     	   | Superior|
-| 2  | Bob   | 25 	| NULL 		| 2 	| Redes de Computadores | 80      	   | Técnico |
 ```
 
 <p>
