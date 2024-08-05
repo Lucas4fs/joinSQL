@@ -170,14 +170,6 @@ FULL JOIN Cursos ON Alunos.ID_Curso = Cursos.ID;
 
 --RESULTADO DA CONSULTA:
 
-+----+-------+-------+----------+-------+---------------------------+--------------+---------+    
-| ID | Nome  | Idade | ID_Curso | ID 	|	       Nome    	        | Duracao_Horas| Nivel   |                
-+----+-------+-------+----------+-------+---------------------------+--------------+---------+
-| 1  | Alice | 22 	| 1 		| 1 	| ADS         			    | 3000         | Superior|
-| 3  | Carol | 28 	| 1 		| 1 	| ADS          			    | 3000     	   | Superior|
-| 2  | Bob   | 25 	| NULL 		| 2 	| Redes de Computadores     | 80      	   | Técnico |
-| 4  | David | 20 	| NULL 		| NULL 	| NULL          		    | NULL     	   |  NULL   |
-+----+-------+------+-----------+-------+---------------------------+--------------+---------+
 ```
 
 <p>
