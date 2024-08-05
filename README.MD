@@ -175,7 +175,9 @@ Nome           | Alice    | Carol    | Bob      			 | David    |
 Idade          | 22       | 28       | 25       			 | 20       |
 ID_Curso       | 1        | 1        | NULL     			 | NULL     |
 ID             | 1        | 1        | 2        			 | NULL     |
-Nome           | ADS      | ADS      | Redes de Computadores | NULL     |
+Nome           | ADS      | ADS      | Redes                 |          |
+			   |		  |			 | de                    |          |
+			   |		  |			 | Computadores 		 | NULL     |
 Duracao_Horas  | 3000     | 3000     | 80       			 | NULL     |
 Nivel          | Superior | Superior | Técnico  	   		 | NULL     |
 ```
